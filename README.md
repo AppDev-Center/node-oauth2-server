@@ -1,5 +1,6 @@
 
-# adc-node-oauth2-server
+# ADC Node OAuth2 Server
+
 
 [![npm Version][npm-image]][npm-url]
 [![npm Downloads][downloads-image]][downloads-url]
