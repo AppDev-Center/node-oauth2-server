@@ -64,6 +64,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oauthjs/node-oauth2-server.git"
+    "url": "https://github.com/AppDev-Center/node-oauth2-server.git"
   }
 }
