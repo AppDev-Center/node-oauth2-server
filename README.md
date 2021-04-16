@@ -18,7 +18,7 @@ Note: After a period of hiatus, this project is now back under active maintenanc
 npm install adc-node-oauth2-server
 ```
 
-The *oauth2-server* module is framework-agnostic but there are several officially supported wrappers available for popular HTTP server frameworks such as [Express](https://www.npmjs.com/package/adc-node-oauth2-server) and [Koa](https://npmjs.org/package/koa-oauth-server). If you're using one of those frameworks it is strongly recommended to use the respective wrapper module instead of rolling your own.
+The *oauth2-server* module is framework-agnostic but there are several officially supported wrappers available for popular HTTP server frameworks such as [Express](https://www.npmjs.com/package/adc-node-express-oauth2-server) and [Koa](https://npmjs.org/package/koa-oauth-server). If you're using one of those frameworks it is strongly recommended to use the respective wrapper module instead of rolling your own.
 
 
 ## Features
